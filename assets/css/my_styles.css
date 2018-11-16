@@ -52,6 +52,15 @@ p {
     width:         calc(100% - 30px);
 }
 
+.img_text a {
+    text-decoration: none;
+    color: white;
+}
+
+.img_text a:hover {
+    color: beige;
+}
+
 .btn {
     background-color: #4aaaa5;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
