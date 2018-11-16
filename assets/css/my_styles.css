@@ -79,6 +79,10 @@ form {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
+.nav-brand:hover {
+    color: beige;
+}
+
 @media (min-width: 992px) { 
     .container {
         max-width: 960px;
