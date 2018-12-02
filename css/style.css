@@ -124,9 +124,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: linear-gradient(270deg, #333635, #ecf0ef);
 	background-size: 400% 400%;
 	
-	-webkit-animation: Animation1 30s ease infinite;
-	-moz-animation: Animation2 30s ease infinite;
-	animation: Animation3 30s ease infinite;
+	-webkit-animation: Animation1 10s ease infinite;
+	-moz-animation: Animation2 10s ease infinite;
+	animation: Animation3 10s ease infinite;
 }
 	
 @keyframes Animation1{
