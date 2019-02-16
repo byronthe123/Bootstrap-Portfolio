@@ -227,19 +227,11 @@ ol.type li a:hover {
 	-moz-transition-property: -moz-transform, opacity;
 	transition-property: transform, opacity;
 }
-/* .portfolio-item {
-	margin: 10px 0;
-	-webkit-transition: all 0.5s ease-out;
-	-moz-transition: all 0.5s ease-out;
-	-ms-transition: all 0.5s ease-out;
-	-o-transition: all 0.5s ease-out;
-	transition: all 0.5s ease-out;
-	position: relative;
+
+.row {
+	margin: 10px 0 10px 0;
 }
-.portfolio-item .hover-bg {
-	overflow: hidden;
-	position: relative;
-} */
+
 .hover-bg .hover-text {
 	position: absolute;
 	text-align: center;
@@ -412,7 +404,7 @@ color: #777;
 	width: 20px;
 	height: 20px;
 }
-/* 
- * {
+
+ /* * {
 	border: 0.5px red solid;
 }  */
